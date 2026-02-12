@@ -1,0 +1,9 @@
+
+{
+  "name": "SENA Academic Management",
+  "description": "A dual-view application for SENA instructors and apprentices, featuring a dashboard for managing student data and a detailed tracking view for individual academic progress.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
